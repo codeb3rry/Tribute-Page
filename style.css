@@ -1,0 +1,16 @@
+ body{background-color: beige;
+         margin:50px 50px 50px 50px;
+    }
+    h1 {font-family: Cursive;
+      font-style: italic;
+      font-color: black;
+    }
+    h2 {font-family: Fantasy;
+      font-style: bold;
+      font-color: red;
+   }
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+}
